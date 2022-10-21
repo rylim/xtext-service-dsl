@@ -60,7 +60,6 @@ For now, only REST Services will be supported, but we want to support GraphQL an
 *	Create a new "Run Configuration" as an "Eclipse Application" and name it appropriately
 *	When you run this new configuration, a new Eclipse Window will open, in which you can create service files and edit them.
 
-
 ## Contributing
 
 see [Contributing](./CONTRIBUTING.md)
